@@ -1,5 +1,5 @@
 module github.com/WinPooh32/cimgui-candlestick-demo
 
-go 1.19
+go 1.21
 
-require github.com/AllenDang/cimgui-go v0.0.0-20230121173337-891880fc1933
+require github.com/AllenDang/cimgui-go v0.0.0-20231124093108-2be2c77051cf

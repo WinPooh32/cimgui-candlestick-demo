@@ -1,2 +1,4 @@
 github.com/AllenDang/cimgui-go v0.0.0-20230121173337-891880fc1933 h1:9ztZxkatHzRZikzuyOBzgaGEiborKmk4BaXu5BJp+Pc=
 github.com/AllenDang/cimgui-go v0.0.0-20230121173337-891880fc1933/go.mod h1:vIyZDtr51WCmf1gWopQS4pAWdS5ma/PJ9Ypc1PbvLDE=
+github.com/AllenDang/cimgui-go v0.0.0-20231124093108-2be2c77051cf h1:M3+rUIohzaPxWbBdlzQ0aeNSM+E2VV1fFq50EyVfulg=
+github.com/AllenDang/cimgui-go v0.0.0-20231124093108-2be2c77051cf/go.mod h1:UH0IZCbsJKA1hAVQQU6AIDfamqTk0/d3VucaN8lp1Gs=
